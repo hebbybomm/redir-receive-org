@@ -1,0 +1,8 @@
+{"name":"redir-receive-org",
+"redirects": [
+    {
+      "source": "(.*)",
+      "destination": "https://www.receivesms.org",
+      "statusCode": 301
+    }
+  ]}
